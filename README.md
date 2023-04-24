@@ -46,7 +46,7 @@ Coupon attributes
 time before it expires: 2 hours or one day.
 
 Deliverables
-
+ [Jupyter notebook](https://github.com/ZERARKAH/Amazon_coupons/blob/da30e4371936c06cc978ae41f135aadb3d0f6969/prompt.ipynb)
 The differences between customers who did and did not accept the coupons:
 
 we can now provide a more comprehensive overview of the differences between customers who accepted coupons and those who didn't:
