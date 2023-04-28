@@ -65,7 +65,7 @@ In conclusion, a range of factors, such as coupon type, user demographics, behav
 
 Businesses can increase sales by tailoring coupon offers to customer preferences and trends, focusing on timing, demographics, and popular coupon types to create more appealing and effective promotions.
 
-
+![IMG_4697](https://user-images.githubusercontent.com/130615319/235265662-44e78a29-0404-4b95-a3ca-ea9edd6ce291.jpeg)
 
 Customer Coupon Acceptance Report
 This report summarizes the findings from an analysis of a dataset that describes the likelihood of a customer accepting a coupon for a restaurant, coffee house, bar, or other food venue. The data was collected via a survey on Amazon Mechanical Turk and includes demographic information about the customer (such as age, marital status, education, occupation, and number of times they visit a specific venue), contextual information about the driving scenario (such as weather, time of day, passenger, and location), and coupon information (such as the type of coupon and time before it expires).
