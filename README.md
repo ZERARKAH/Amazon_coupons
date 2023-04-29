@@ -38,7 +38,7 @@ The dataset includes user attributes like gender, age, education, and income, as
  
  ## 1- Investigating the Bar Coupons
  - Bellow is the percentage of bar coupons that were accepted: 41.19%
- 
+ ![download3](https://user-images.githubusercontent.com/130615319/235326612-61e5efd0-f236-456e-950f-49f3e913920a.png)
  
  Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24%
 Acceptance rate for those who went to a bar more than 3 times a month: 76.17%
