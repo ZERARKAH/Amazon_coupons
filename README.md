@@ -40,11 +40,17 @@ The dataset includes user attributes like gender, age, education, and income, as
  - Bellow is the percentage of bar coupons that were accepted: 41.19%
  ![download3](https://user-images.githubusercontent.com/130615319/235326612-61e5efd0-f236-456e-950f-49f3e913920a.png)
  
- Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24%
-Acceptance rate for those who went to a bar more than 3 times a month: 76.17%
-
+Bellow: 
+- Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24%
+- Acceptance rate for those who went to a bar more than 3 times a month: 76.17%
 - Based on the results:
-Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24% Acceptance rate for those who went to a bar more than 3 times a month: 76.17% We can conclude that individuals who go to a bar more than 3 times a month are more likely to accept bar coupons compared to those who go to a bar 3 or fewer times a month. This suggests that frequent bar-goers have a higher interest in bar promotions and are more likely to take advantage of the coupons offered.
+Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24% Acceptance rate for those who went to a bar more than 3 times a month: 76.17% We can conclude that individuals who go to a bar more than 3 times a month are more likely to accept bar coupons compared to those who go to a bar 3 or fewer times a month. 
+
+- Note: 
+This suggests that frequent bar-goers have a higher interest in bar promotions and are more likely to take advantage of the coupons offered.
+![download4](https://user-images.githubusercontent.com/130615319/235326714-734e5ef9-b193-4a11-aec8-35aa1a82bbf6.png)
+
+
 
 
 
