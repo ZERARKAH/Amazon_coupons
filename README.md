@@ -26,9 +26,53 @@ The dataset includes user attributes like gender, age, education, and income, as
 
 - 57% of the total observations chose to accept the coupon, we can conclude that slightly more than half of the respondents were willing to use the coupon.
 
+- The chart below shows that the most frequent venue type for which the coupon was accepted was 'coffee houses' followed by "less expensive restaurants" (under $20)." "Carry out & Take away and "Bars" had relatively lower frequencies, while "expensive restaurants" ($20 - $50)" had the lowest frequency among all the venue types. 
+
 ![download1](https://user-images.githubusercontent.com/130615319/235323865-4ba2f0a6-702d-4c74-8ab2-7a66c73c1997.png)
 
-- The chart shows that the most frequent venue type for which the coupon was accepted was 'coffee houses' followed by "less expensive restaurants" (under $20)." "Carry out & Take away and "Bars" had relatively lower frequencies, while "expensive restaurants" ($20 - $50)" had the lowest frequency among all the venue types.
+
+ - The grapgh bellow shows that people accept more coupons if the weather is better.
+ 
+ ![download2](https://user-images.githubusercontent.com/130615319/235325448-d2fcefde-6b3a-4e71-8e25-618fea5a07e1.png)
+ 
+ 
+ ## 1- Investigating the Bar Coupons
+ - Bellow is the percentage of bar coupons that were accepted: 41.19%
+ 
+ 
+ Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24%
+Acceptance rate for those who went to a bar more than 3 times a month: 76.17%
+
+- Based on the results:
+Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24% Acceptance rate for those who went to a bar more than 3 times a month: 76.17% We can conclude that individuals who go to a bar more than 3 times a month are more likely to accept bar coupons compared to those who go to a bar 3 or fewer times a month. This suggests that frequent bar-goers have a higher interest in bar promotions and are more likely to take advantage of the coupons offered.
+
+
+
+
+
+
+Acceptance rate for drivers who go to a bar more than once a month and are over the age of 25: 68.98%
+Acceptance rate for all other drivers: 33.73%
+
+- Based on the results:
+Acceptance rate for drivers who go to a bar more than once a month and are over the age of 25: 68.98% Acceptance rate for all other drivers: 33.73% We can conclude that drivers who go to a bar more than once a month and are over the age of 25 are more likely to accept bar coupons compared to all other drivers. This indicates that targeting bar promotions to this specific demographic group (drivers over 25 who frequent bars more than once a month) may yield higher coupon acceptance rates and possibly higher sales or customer engagement.
+
+
+
+
+
+Acceptance rate for drivers who go to a bar more than once a month, have passengers not kids, and have occupations other than farming, fishing, or forestry: 68.53%
+Acceptance rate for all other drivers: 29.46%
+ 
+- Based on the results:
+Acceptance rate for drivers who go to a bar more than once a month, have passengers not kids, and have occupations other than farming, fishing, or forestry: 68.53% Acceptance rate for all other drivers: 29.46% We can conclude that drivers who go to a bar more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry are more likely to accept bar coupons compared to all other drivers. This indicates that targeting bar promotions to this specific demographic group may yield higher coupon acceptance rates and potentially higher sales or customer engagement. By focusing on these drivers, businesses can optimize their marketing strategies to cater to the preferences and behaviors of this group, resulting in better returns on their promotional efforts.
+ 
+ 
+ 
+ Compare the acceptance rates between those drivers who:
+go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+go to bars more than once a month and are under the age of 30 OR
+go to cheap restaurants more than 4 times a month and income is less than 50K.
  
  
 The differences between customers who did and did not accept the coupons:
