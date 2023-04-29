@@ -26,7 +26,9 @@ The dataset includes user attributes like gender, age, education, and income, as
 
 - 57% of the total observations chose to accept the coupon, we can conclude that slightly more than half of the respondents were willing to use the coupon.
 
+![download1](https://user-images.githubusercontent.com/130615319/235323865-4ba2f0a6-702d-4c74-8ab2-7a66c73c1997.png)
 
+- The chart shows that the most frequent venue type for which the coupon was accepted was 'coffee houses' followed by "less expensive restaurants" (under $20)." "Carry out & Take away and "Bars" had relatively lower frequencies, while "expensive restaurants" ($20 - $50)" had the lowest frequency among all the venue types.
  
  
 The differences between customers who did and did not accept the coupons:
