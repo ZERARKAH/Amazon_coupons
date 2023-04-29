@@ -29,12 +29,12 @@ The dataset includes user attributes like gender, age, education, and income, as
 - The chart below shows that the most frequent venue type for which the coupon was accepted was 'coffee houses' followed by "less expensive restaurants" (under $20)." "Carry out & Take away and "Bars" had relatively lower frequencies, while "expensive restaurants" ($20 - $50)" had the lowest frequency among all the venue types. 
 
 ![download1](https://user-images.githubusercontent.com/130615319/235323865-4ba2f0a6-702d-4c74-8ab2-7a66c73c1997.png)
-
+**********************************
 
  - The grapgh bellow shows that people accept more coupons if the weather is better.
  
  ![download2](https://user-images.githubusercontent.com/130615319/235325448-d2fcefde-6b3a-4e71-8e25-618fea5a07e1.png)
- 
+ **********************************
  
  ## 1- Investigating the Bar Coupons
  - Bellow is the percentage of bar coupons that were accepted: 41.19%
@@ -43,43 +43,57 @@ The dataset includes user attributes like gender, age, education, and income, as
 Bellow: 
 - Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24%
 - Acceptance rate for those who went to a bar more than 3 times a month: 76.17%
-- Based on the results:
+- Note:
 Acceptance rate for those who went to a bar 3 or fewer times a month: 37.24% Acceptance rate for those who went to a bar more than 3 times a month: 76.17% We can conclude that individuals who go to a bar more than 3 times a month are more likely to accept bar coupons compared to those who go to a bar 3 or fewer times a month. 
 
 - Note: 
 This suggests that frequent bar-goers have a higher interest in bar promotions and are more likely to take advantage of the coupons offered.
 ![download4](https://user-images.githubusercontent.com/130615319/235326714-734e5ef9-b193-4a11-aec8-35aa1a82bbf6.png)
 
+*********************************************************
 
 
 
 
 
 
-
-Acceptance rate for drivers who go to a bar more than once a month and are over the age of 25: 68.98%
+- Acceptance rate for drivers who go to a bar more than once a month and are over the age of 25: 68.98%
 Acceptance rate for all other drivers: 33.73%
 
-- Based on the results:
-Acceptance rate for drivers who go to a bar more than once a month and are over the age of 25: 68.98% Acceptance rate for all other drivers: 33.73% We can conclude that drivers who go to a bar more than once a month and are over the age of 25 are more likely to accept bar coupons compared to all other drivers. This indicates that targeting bar promotions to this specific demographic group (drivers over 25 who frequent bars more than once a month) may yield higher coupon acceptance rates and possibly higher sales or customer engagement.
+- Note:
+ We can conclude that drivers who go to a bar more than once a month and are over the age of 25 are more likely to accept bar coupons compared to all other drivers. This indicates that targeting bar promotions to this specific demographic group (drivers over 25 who frequent bars more than once a month) may yield higher coupon acceptance rates and possibly higher sales or customer engagement.
 
 
+**********************************************************
 
 
-
-Acceptance rate for drivers who go to a bar more than once a month, have passengers not kids, and have occupations other than farming, fishing, or forestry: 68.53%
+- Acceptance rate for drivers who go to a bar more than once a month, have passengers not kids, and have occupations other than farming, fishing, or forestry: 68.53%
 Acceptance rate for all other drivers: 29.46%
  
-- Based on the results:
-Acceptance rate for drivers who go to a bar more than once a month, have passengers not kids, and have occupations other than farming, fishing, or forestry: 68.53% Acceptance rate for all other drivers: 29.46% We can conclude that drivers who go to a bar more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry are more likely to accept bar coupons compared to all other drivers. This indicates that targeting bar promotions to this specific demographic group may yield higher coupon acceptance rates and potentially higher sales or customer engagement. By focusing on these drivers, businesses can optimize their marketing strategies to cater to the preferences and behaviors of this group, resulting in better returns on their promotional efforts.
+- Note:
+Acceptance rate for drivers who go to a bar more than once a month, have passengers not kids, and have occupations other than farming, fishing, or forestry: 68.53% Acceptance rate for all other drivers: 29.46% We can conclude that drivers who go to a bar more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry are more likely to accept bar coupons compared to all other drivers. 
  
- 
+ *************************************************
  
  Compare the acceptance rates between those drivers who:
-go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
-go to bars more than once a month and are under the age of 30 OR
-go to cheap restaurants more than 4 times a month and income is less than 50K.
+- go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+- go to bars more than once a month and are under the age of 30 OR
+- go to cheap restaurants more than 4 times a month and income is less than 50K.
+ ![download5](https://user-images.githubusercontent.com/130615319/235327114-11f23962-9156-4fd0-a13f-3dd950516859.png)
+
+ #### Conclusion1:
  
+Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
+Based on the observations, we can hypothesize that drivers who accepted the bar coupons are more likely to have certain characteristics. These drivers tend to:
+
+- Visit bars more frequently (more than once a month).
+- Be over the age of 25, especially when compared to all other drivers.
+- Have passengers that are not kids.
+- Work in occupations other than farming, fishing, or forestry.
+- Not be widowed.
+- Additionally, factors such as going to cheap restaurants more than 4 times a month and having an income less than 50K may also influence the acceptance rate of bar coupons, but the effect is less pronounced compared to the factors listed above.
+
+*************************************
  
 The differences between customers who did and did not accept the coupons:
 
