@@ -102,9 +102,12 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
   
 - In conclusion, passengers who accepted coffee house coupons were more likely to have no urgent destination, be alone or with friends, experience sunny weather, and accept the coupon around mid-morning or early evening. They were also more likely to be single without children and have some college education or a bachelor's degree. Unemployed and student passengers showed the highest acceptance rates for coffee house coupons.
   
+ Bellow:
+ - Education Distribution by gender 
  
+ ![download11](https://user-images.githubusercontent.com/130615319/235331709-08ffb97c-32d4-4332-bff4-d087a9568a56.png)
   
-  
+  - We can clearly see that the proportions are pretty close between genders, the Bachelors degree and people with some college- no dgree are more likely to accept coupons.
   
   
   
