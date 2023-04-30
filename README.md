@@ -106,8 +106,13 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
  - Education Distribution by gender 
  
  ![download11](https://user-images.githubusercontent.com/130615319/235331709-08ffb97c-32d4-4332-bff4-d087a9568a56.png)
+ 
+   - We can clearly see that the proportions are pretty close between genders, the Bachelors degree and people with some college- no dgree are more likely to accept coupons.
+   
+ 
+ ![download1010](https://user-images.githubusercontent.com/130615319/235331941-643253ee-8ad6-4abe-bdf5-2c8a435e9780.png)
   
-  - We can clearly see that the proportions are pretty close between genders, the Bachelors degree and people with some college- no dgree are more likely to accept coupons.
+
   
   
   
