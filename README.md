@@ -113,7 +113,14 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
  ![download1010](https://user-images.githubusercontent.com/130615319/235331941-643253ee-8ad6-4abe-bdf5-2c8a435e9780.png)
   
 
-  
+  ![download99](https://user-images.githubusercontent.com/130615319/235332000-eb6183d7-994e-4284-ad48-63e43f20b09c.png)
+![download88](https://user-images.githubusercontent.com/130615319/235332008-d80f9d08-b184-404b-b7ad-2708194a1441.png)
+![download77](https://user-images.githubusercontent.com/130615319/235332012-862cad82-05d7-49c0-8682-e127cbefa90d.png)
+
+![download66](https://user-images.githubusercontent.com/130615319/235332013-748b484f-e852-4dbe-86e7-d86b877a2b85.png)
+![download55](https://user-images.githubusercontent.com/130615319/235332015-e7d0be30-5583-4604-a49e-f8b883166466.png)
+![download33](https://user-images.githubusercontent.com/130615319/235332018-14de0f16-3b26-4ee8-a23f-fff4e2731194.png)
+![download22](https://user-images.githubusercontent.com/130615319/235332022-0f598888-3da0-4829-8b63-e555f12be3f0.png)
   
   
   
