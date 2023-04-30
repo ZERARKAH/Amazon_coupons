@@ -94,7 +94,17 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
 - Additionally, factors such as going to cheap restaurants more than 4 times a month and having an income less than 50K may also influence the acceptance rate of bar coupons, but the effect is less pronounced compared to the factors listed above.
 
 *************************************
- 
+  ## 2- Investigating the coffee house and determine the characteristics of passengers who accept these coupons
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 The differences between customers who did and did not accept the coupons:
 
 we can now provide a more comprehensive overview of the differences between customers who accepted coupons and those who didn't:
