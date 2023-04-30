@@ -122,14 +122,37 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
 ![download33](https://user-images.githubusercontent.com/130615319/235332018-14de0f16-3b26-4ee8-a23f-fff4e2731194.png)
 ![download22](https://user-images.githubusercontent.com/130615319/235332022-0f598888-3da0-4829-8b63-e555f12be3f0.png)
   
+  *************************************************************************
+  ### Correlations between Categorical Variables and Coupon Acceptance
+  ![download222](https://user-images.githubusercontent.com/130615319/235332160-4e4f4854-78bf-4367-aed2-65e8cdc150a1.png)
+
+![download111](https://user-images.githubusercontent.com/130615319/235332148-9cd90ee1-9b39-4781-bbe3-658d170fa32b.png)
+
+![download333](https://user-images.githubusercontent.com/130615319/235332153-4524faa5-f80c-4b3e-8f73-47df09f1b93f.png)
+  
+- Conclusion:
+
+  The result shows the correlation coefficients between the target variable (Y) and each categorical variable.
+A positive correlation coefficient means that there is a positive association between the variable and the target variable. In this case, destination and passanger have positive correlation coefficients, which means that there is a higher chance of accepting the coupon when the destination is No Urgent Place or the passanger is Alone or with Friends.
+
+A negative correlation coefficient means that there is a negative association between the variable and the target variable. In this case, time, gender, maritalStatus, and has_children have negative correlation coefficients, which means that there is a lower chance of accepting the coupon when the time is 10PM, the passenger is male, the driver is unmarried or divorced, or the driver has children.
+
+A correlation coefficient close to 0 means that there is no significant correlation between the variable and the target variable. In this case, weather, education, and occupation have correlation coefficients close to 0.
   
   
+  **********************************************************
   
+  #### Final Conclusion:
   
-  
-  
-  
-  
+  The study aimed to explore the factors that determine whether a driver accepts a coupon that is delivered to them on their mobile phone for a nearby restaurant, bar, or coffee house. The analysis was carried out on a dataset that included information on various demographic, social, and behavioral variables of the drivers, as well as whether or not they accepted the coupon.
+
+The results of the analysis showed that the acceptance rate for coffee house coupons was significantly higher than for restaurant or bar coupons. Furthermore, drivers who go to a coffee house more than once a month and are over the age of 25 had a much higher acceptance rate compared to all other drivers.
+
+The study also examined the distribution of each categorical variable for both accepted and non-accepted coupons. The visualization of the distribution was done using various techniques such as stacked bar plots, pie charts, and histograms. The results showed that some variables, such as the time of day and the passenger's presence, were strongly associated with coupon acceptance.
+
+Finally, the study conducted a correlation analysis to understand the relationship between the target variable (coupon acceptance) and each categorical variable. The results of the analysis showed a weak positive correlation between coupon acceptance and variables such as the passenger's presence, occupation, and education level. In contrast, there was a weak negative correlation between coupon acceptance and variables such as the time of day and marital status.
+
+In conclusion, this study provides valuable insights into the factors that determine coupon acceptance among drivers. The findings can help marketers and businesses tailor their coupon delivery strategies and better target potential customers based on their demographic and behavioral characteristics.
   
   
   
