@@ -96,7 +96,7 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
 *************************************
   ## 2- Investigating the coffee house and determine the characteristics of passengers who accept these coupons
   
-  
+  ![download6](https://user-images.githubusercontent.com/130615319/235329715-22c89a9d-a82d-4dce-8aa0-1afedaf2ab4d.png)
   
   
   
