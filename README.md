@@ -124,13 +124,8 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
   
   *************************************************************************
   ### Correlations between Categorical Variables and Coupon Acceptance
-  ![download222](https://user-images.githubusercontent.com/130615319/235332160-4e4f4854-78bf-4367-aed2-65e8cdc150a1.png)
-
-![download111](https://user-images.githubusercontent.com/130615319/235332148-9cd90ee1-9b39-4781-bbe3-658d170fa32b.png)
-
-![download333](https://user-images.githubusercontent.com/130615319/235332153-4524faa5-f80c-4b3e-8f73-47df09f1b93f.png)
   
-- Conclusion:
+  ##### Conclusion:
 
   The result shows the correlation coefficients between the target variable (Y) and each categorical variable.
 A positive correlation coefficient means that there is a positive association between the variable and the target variable. In this case, destination and passanger have positive correlation coefficients, which means that there is a higher chance of accepting the coupon when the destination is No Urgent Place or the passanger is Alone or with Friends.
@@ -138,6 +133,13 @@ A positive correlation coefficient means that there is a positive association be
 A negative correlation coefficient means that there is a negative association between the variable and the target variable. In this case, time, gender, maritalStatus, and has_children have negative correlation coefficients, which means that there is a lower chance of accepting the coupon when the time is 10PM, the passenger is male, the driver is unmarried or divorced, or the driver has children.
 
 A correlation coefficient close to 0 means that there is no significant correlation between the variable and the target variable. In this case, weather, education, and occupation have correlation coefficients close to 0.
+  ![download222](https://user-images.githubusercontent.com/130615319/235332160-4e4f4854-78bf-4367-aed2-65e8cdc150a1.png)
+
+![download111](https://user-images.githubusercontent.com/130615319/235332148-9cd90ee1-9b39-4781-bbe3-658d170fa32b.png)
+
+![download333](https://user-images.githubusercontent.com/130615319/235332153-4524faa5-f80c-4b3e-8f73-47df09f1b93f.png)
+  
+
   
   
   **********************************************************
@@ -160,24 +162,6 @@ In conclusion, a range of factors, such as coupon type, user demographics, behav
 
 Businesses can increase sales by tailoring coupon offers to customer preferences and trends, focusing on timing, demographics, and popular coupon types to create more appealing and effective promotions.
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
 
 #### Next steps:
 the results of this analysis provide valuable insights into the factors that influence customer coupon acceptance. By understanding these factors, businesses can target their promotions to specific demographic groups and optimize their marketing strategies for better returns on their promotional efforts. However, it's important to keep in mind that the results of this analysis are based on average values and may not apply to all customers in the same way. Further research and analysis may be necessary to gain a more comprehensive understanding of coupon acceptance behaviors.
