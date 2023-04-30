@@ -144,37 +144,7 @@ A correlation coefficient close to 0 means that there is no significant correlat
   
   #### Final Conclusion:
   
-  The study aimed to explore the factors that determine whether a driver accepts a coupon that is delivered to them on their mobile phone for a nearby restaurant, bar, or coffee house. The analysis was carried out on a dataset that included information on various demographic, social, and behavioral variables of the drivers, as well as whether or not they accepted the coupon.
-
-The results of the analysis showed that the acceptance rate for coffee house coupons was significantly higher than for restaurant or bar coupons. Furthermore, drivers who go to a coffee house more than once a month and are over the age of 25 had a much higher acceptance rate compared to all other drivers.
-
-The study also examined the distribution of each categorical variable for both accepted and non-accepted coupons. The visualization of the distribution was done using various techniques such as stacked bar plots, pie charts, and histograms. The results showed that some variables, such as the time of day and the passenger's presence, were strongly associated with coupon acceptance.
-
-Finally, the study conducted a correlation analysis to understand the relationship between the target variable (coupon acceptance) and each categorical variable. The results of the analysis showed a weak positive correlation between coupon acceptance and variables such as the passenger's presence, occupation, and education level. In contrast, there was a weak negative correlation between coupon acceptance and variables such as the time of day and marital status.
-
-In conclusion, this study provides valuable insights into the factors that determine coupon acceptance among drivers. The findings can help marketers and businesses tailor their coupon delivery strategies and better target potential customers based on their demographic and behavioral characteristics.
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-The differences between customers who did and did not accept the coupons:
-
-we can now provide a more comprehensive overview of the differences between customers who accepted coupons and those who didn't:
+  we can now provide a more comprehensive overview of the differences between customers who accepted coupons and those who didn't:
 
 Coupon Type: Customers have varied preferences when it comes to coupon types. For example, some types of coupons, such as those for less expensive restaurants and coffee houses, might be more appealing than bar coupons. In fact, the overall acceptance rate for coffee house coupons was 50%, while bar coupons had a lower acceptance rate of 41%, with 785 accepted and 1121 not accepted.
 
@@ -189,24 +159,25 @@ Passenger: Who is in the car with the customer can also impact their decision to
 In conclusion, a range of factors, such as coupon type, user demographics, behavior, weather, temperature, time of day, and passenger presence, can play a role in whether a customer chooses to accept or reject a coupon. To boost the likelihood of coupon acceptance, businesses should consider these factors when crafting their offers for potential customers.
 
 Businesses can increase sales by tailoring coupon offers to customer preferences and trends, focusing on timing, demographics, and popular coupon types to create more appealing and effective promotions.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
-Customer Coupon Acceptance Report
-This report summarizes the findings from an analysis of a dataset that describes the likelihood of a customer accepting a coupon for a restaurant, coffee house, bar, or other food venue. The data was collected via a survey on Amazon Mechanical Turk and includes demographic information about the customer (such as age, marital status, education, occupation, and number of times they visit a specific venue), contextual information about the driving scenario (such as weather, time of day, passenger, and location), and coupon information (such as the type of coupon and time before it expires).
 
-Summary of Results
-The analysis found that certain demographic and contextual factors significantly influence the acceptance rate of coupons. Some of the key findings are:
 
-Drivers who go to bars more frequently (more than once a month) and are over the age of 25 have a higher acceptance rate (68.98%) compared to all other drivers (33.73%).
 
-Drivers who visit coffee houses more frequently (1-3 times a month) and are over the age of 25 have a higher acceptance rate (65.11%) compared to all other drivers (41.81%).
-
-Drivers with friends as passengers have the highest acceptance rate for coffee coupons (67.60%), followed by drivers with their partner as a passenger (59.33%). Drivers who are alone or have kids as passengers have lower acceptance rates (52.56% and 49.62%, respectively).
-
-The acceptance rate for bar coupons is higher for drivers who go to a bar more than 3 times a month (76.17%) compared to those who go 3 or fewer times a month (37.24%).
-
-The acceptance rate for drivers who go to cheap restaurants more than 4 times a month and have an income less than $50K is around 60%.
-
-Conclusion
-In conclusion, the results of this analysis provide valuable insights into the factors that influence customer coupon acceptance. By understanding these factors, businesses can target their promotions to specific demographic groups and optimize their marketing strategies for better returns on their promotional efforts. However, it's important to keep in mind that the results of this analysis are based on average values and may not apply to all customers in the same way. Further research and analysis may be necessary to gain a more comprehensive understanding of coupon acceptance behaviors.
+#### Next steps:
+the results of this analysis provide valuable insights into the factors that influence customer coupon acceptance. By understanding these factors, businesses can target their promotions to specific demographic groups and optimize their marketing strategies for better returns on their promotional efforts. However, it's important to keep in mind that the results of this analysis are based on average values and may not apply to all customers in the same way. Further research and analysis may be necessary to gain a more comprehensive understanding of coupon acceptance behaviors.
