@@ -95,8 +95,37 @@ Based on the observations, we can hypothesize that drivers who accepted the bar 
 
 *************************************
   ## 2- Investigating the coffee house and determine the characteristics of passengers who accept these coupons
+  - After calculating the proportions of each category in categorical variables:
   
-  ![download6](https://user-images.githubusercontent.com/130615319/235329715-22c89a9d-a82d-4dce-8aa0-1afedaf2ab4d.png)
+  
+  ![download7](https://user-images.githubusercontent.com/130615319/235330691-8527fb5d-ec4b-4e7e-b257-9065432d846a.png)
+  
+- In conclusion, passengers who accepted coffee house coupons were more likely to have no urgent destination, be alone or with friends, experience sunny weather, and accept the coupon around mid-morning or early evening. They were also more likely to be single without children and have some college education or a bachelor's degree. Unemployed and student passengers showed the highest acceptance rates for coffee house coupons.
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
